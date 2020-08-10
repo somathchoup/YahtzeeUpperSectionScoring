@@ -2,6 +2,11 @@
 
 Created in IDE NetBeans.
 
+How to Execute
+-Java required.
+-Download jar file.
+-Run jar file.
+
 Description
 The game of Yahtzee is played by rolling five 6-sided dice, and scoring the results in a number of ways. You are given a Yahtzee dice roll, represented as a sorted list of 5 integers, each of which is between 1 and 6 inclusive. Your task is to find the maximum possible score for this roll in the upper section of the Yahtzee score card. Here's what that means.
 
